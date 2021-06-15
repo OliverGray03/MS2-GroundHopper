@@ -1,0 +1,94 @@
+.navbar {
+    background-color: #cfdbd5;
+    position: relative;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.navbar-brand {
+    color: #242423;
+    text-transform: uppercase;
+    font-family: 'Hind Siliguri', sans-serif;
+    letter-spacing: 2px;
+    font-size: 1.2rem;
+}
+
+.navbar-brand:hover {
+    color: #f5cb5c;
+}
+
+.nav-item a {
+    color: #242423;
+    text-transform: uppercase;
+    font-family: 'Hind Siliguri', sans-serif;
+    letter-spacing: 2px;
+    font-size: 1.2rem;
+}
+
+.nav-item a:hover {
+    color: #f5cb5c;
+}
+
+#navbar-menu ul {
+    float: right;
+    margin-right: 10px;
+}
+
+.navbar-toggler {
+    color: #242423;
+}
+
+/*----------------------------footer----------------------------*/
+
+.container-contact100 {
+    width: 100%;
+    min-height: 100vh;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    background: 0 0;
+    position: relative;
+    z-index: 1;
+}
+
+.footer-top {
+    text-align: center;
+    color: #242423;
+    background-color: #cfdbd5;
+    padding: 10px;
+}
+
+.footer-socials a {
+    color: #f5cb5c;
+    font-size: 30px;
+    padding: 15px;
+}
+
+.footer-socials a:hover {
+    color: #333533;
+}
+
+.footer-bottom {
+    padding-left: 0px;
+    width: 100%;
+    text-align: center;
+    color: #f5cb5c;
+    background-color: #242423;
+}
+
+.footer-bottom a {
+    color: #cfdbd5;
+}
+
+.footer-bottom a:hover {
+    color: #f5cb5c;
+    text-decoration: none;
+}
